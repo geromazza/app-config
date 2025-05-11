@@ -1,4 +1,4 @@
 {
-  "saleActive": false,
-  "salePriceText": "Half Off! - Today Only"
+  "saleActive": true,
+  "salePriceText": "Save 50%! - Today Only"
 }
